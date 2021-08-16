@@ -21,3 +21,4 @@ go run ./count_with_gocv.go data/video/bee_count.mp4 800 x 240
 ## Resources
 
 https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/
+http://matpalm.com/blog/counting_bees/ and the code for this: https://github.com/matpalm/bnn
